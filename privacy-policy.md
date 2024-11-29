@@ -85,5 +85,5 @@ We reserve the right to update this Privacy Policy. Changes will be communicated
 ---
 
 ## 11. Contact
-If you have any questions or concerns about this Privacy Policy, please contact us through the bot’s support channel or repository.
+If you have any questions or concerns about this Privacy Policy, please contact us through the bot’s support channel or repository. <br>
 Discord Support Server - https://discord.gg/XAZgdrR6k6
